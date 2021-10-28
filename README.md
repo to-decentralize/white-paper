@@ -1,6 +1,6 @@
-# White Paper on Decentralized Food Delivery
+# White Paper on Open Restaurant
 
-### A next generation decentralized organization structure for food delivery
+### A next generation decentralized organization for online ordering which brings control back to restaurant owners and consumers.
 
 By [Aaron Haobei Song](https://github.com/songhobby) and Darren Chen.
 
